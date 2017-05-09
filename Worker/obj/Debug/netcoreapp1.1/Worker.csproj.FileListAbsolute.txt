@@ -1,0 +1,8 @@
+C:\Users\sthummala\Documents\Visual Studio 2017\Projects\Worker\bin\Debug\netcoreapp1.1\Worker.dll
+C:\Users\sthummala\Documents\Visual Studio 2017\Projects\Worker\bin\Debug\netcoreapp1.1\Worker.deps.json
+C:\Users\sthummala\Documents\Visual Studio 2017\Projects\Worker\bin\Debug\netcoreapp1.1\Worker.runtimeconfig.json
+C:\Users\sthummala\Documents\Visual Studio 2017\Projects\Worker\bin\Debug\netcoreapp1.1\Worker.runtimeconfig.dev.json
+C:\Users\sthummala\Documents\Visual Studio 2017\Projects\Worker\bin\Debug\netcoreapp1.1\Worker.pdb
+C:\Users\sthummala\Documents\Visual Studio 2017\Projects\Worker\obj\Debug\netcoreapp1.1\Worker.AssemblyInfo.cs
+C:\Users\sthummala\Documents\Visual Studio 2017\Projects\Worker\obj\Debug\netcoreapp1.1\Worker.dll
+C:\Users\sthummala\Documents\Visual Studio 2017\Projects\Worker\obj\Debug\netcoreapp1.1\Worker.pdb

@@ -1,0 +1,8 @@
+C:\Users\sthummala\Documents\Visual Studio 2017\Projects\NewTask\bin\Debug\netcoreapp1.1\NewTask.deps.json
+C:\Users\sthummala\Documents\Visual Studio 2017\Projects\NewTask\bin\Debug\netcoreapp1.1\NewTask.runtimeconfig.json
+C:\Users\sthummala\Documents\Visual Studio 2017\Projects\NewTask\bin\Debug\netcoreapp1.1\NewTask.runtimeconfig.dev.json
+C:\Users\sthummala\Documents\Visual Studio 2017\Projects\NewTask\bin\Debug\netcoreapp1.1\NewTask.dll
+C:\Users\sthummala\Documents\Visual Studio 2017\Projects\NewTask\bin\Debug\netcoreapp1.1\NewTask.pdb
+C:\Users\sthummala\Documents\Visual Studio 2017\Projects\NewTask\obj\Debug\netcoreapp1.1\NewTask.AssemblyInfo.cs
+C:\Users\sthummala\Documents\Visual Studio 2017\Projects\NewTask\obj\Debug\netcoreapp1.1\NewTask.dll
+C:\Users\sthummala\Documents\Visual Studio 2017\Projects\NewTask\obj\Debug\netcoreapp1.1\NewTask.pdb
